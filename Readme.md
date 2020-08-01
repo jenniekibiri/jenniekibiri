@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
 
-- 🔭 I’m currently working on [sociol networking](https://socioh.herokuapp.com/)
+- 🔭 I’m currently working on [social networking](https://socioh.herokuapp.com/)
 
 - 🌱 I’m currently learning **Golang**
 
