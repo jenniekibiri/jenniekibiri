@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jenniekibiri/](https://github.com/jenniekibiri/)
 
-- 💬 Ask me about **Nodejs,React,javascript and skating**
+- 💬 Ask me about **Nodejs,React,javascript,github continuous Intergration,workflow automation✔✔ and roller blading**
 
 - 📫 How to reach me **jennykibiri@gmail.com**
 
