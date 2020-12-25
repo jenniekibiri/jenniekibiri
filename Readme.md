@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm jennie kibiri</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm jenny kibiri</h1>
+<h3 align="center">A passionate software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
 
-- 🔭 I’m currently working on [social networking](https://socioh.herokuapp.com/)
+- 🔭 I’m currently working on Restaurant review site)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **TypeScript and React**
 
 - 👯 I’m looking to collaborate on [ShecodeAfrica-WOSCA-book-gallery-api](https://github.com/jenniekibiri/WOSCA-book-gallery-api)
-
-- 🤔 I’m looking for help with **Javascript game**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jenniekibiri/](https://github.com/jenniekibiri/)
 
