@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
 
-- 🔭 I’m currently working on Restaurant review site)
+- 🔭 I’m currently working on Restaurant review site
 
 - 🌱 I’m currently learning **TypeScript and React**
 
