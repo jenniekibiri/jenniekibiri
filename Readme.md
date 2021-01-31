@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm jenny kibiri</h1>
 <h3 align="center">A passionate software Engineer from Kenya</h3>
+<h3 align="center">Am Looking for Internship between April and July ☺ 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
 
-- 🔭 I’m currently working on Restaurant review site
+- 🔭 I’m currently working on Restaurant review site.
+[see the site](https://desolate-reef-46020.herokuapp.com/)
 
-- 🌱 I’m currently learning **TypeScript and React**
-
-- 👯 I’m looking to collaborate on [ShecodeAfrica-WOSCA-book-gallery-api](https://github.com/jenniekibiri/WOSCA-book-gallery-api)
-
-- 👨‍💻 All of my projects are available at [https://github.com/jenniekibiri/](https://github.com/jenniekibiri/)
 
 - 💬 Ask me about **Nodejs,React,javascript,github continuous Intergration,workflow automation✔✔ and roller blading**
 
