@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on Restaurant review site.
 [see the site](https://desolate-reef-46020.herokuapp.com/)
 
+- 📝 Read my articles on hashnode.
+[jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
 
 - 💬 Ask me about **Nodejs,React,javascript,github continuous Intergration,workflow automation✔✔ and roller blading**
 
