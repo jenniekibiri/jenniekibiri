@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
 
-- 🔭 I'm a Javascript Developer and a Frontend developer by Profession from OpenClassrooms.
+- 🔭 I'm a Javascript Developer and a Frontend developer.
 
 - 📝 Read my articles on hashnode.
 [jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
