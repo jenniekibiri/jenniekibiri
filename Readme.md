@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Nodejs,React,Javascript,Graphql and Roller Blading**
 
-- 📫 How to reach me **jennykibiri@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/jennykibiri/**
 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=jenniekibiri&show_icons=true&theme=tokyonight" alt="jenniekibiri" /> </p>
 <p align="">
