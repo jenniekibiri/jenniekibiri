@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
 
-- 🔭 I'm a Javascript Developer and a Frontend developer.
+- 🔭 I'm a full-stack software engineer.
 
 - 📝 Read my articles on hashnode.
 [jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
 
-- 💬 Ask me about **Nodejs,React,Javascript,Graphql and Roller Blading**
+- 💬 I'm intrested in building scalable applications for the web, frontend is my forte but I'm also into backend and cloud (aws, azure);
 
 - 📫 How to reach me **https://www.linkedin.com/in/jennykibiri/**
 
