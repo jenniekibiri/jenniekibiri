@@ -1,7 +1,4 @@
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniekibiri" alt="jenniekibiri" /> </p>
-
 - 🔭 Figuring things out on the go!
 
 - 📝 Read my articles on hashnode.
