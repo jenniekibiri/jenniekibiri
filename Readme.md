@@ -1,5 +1,5 @@
 
-- 🔭 Figuring things out on the go!
+- 🔭 Let's get it done!
 
 - 📝 Read my articles on hashnode.
 [jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
